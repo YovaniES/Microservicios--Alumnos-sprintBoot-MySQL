@@ -1,0 +1,5 @@
+package com.yovanies.commons.app.repository;
+
+public interface ICursoRepository {
+
+}

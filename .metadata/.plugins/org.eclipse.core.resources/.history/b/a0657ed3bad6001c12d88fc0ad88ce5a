@@ -1,0 +1,5 @@
+package com.yovanies.commons.services;
+
+public interface ICommonsService {
+
+}

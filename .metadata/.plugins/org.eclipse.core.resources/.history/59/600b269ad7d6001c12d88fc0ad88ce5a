@@ -1,0 +1,5 @@
+package com.yovanies.commons.app.entity;
+
+public class Curso {
+
+}
